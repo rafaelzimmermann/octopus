@@ -6,3 +6,10 @@
 ## Prototype
 
 ![image](https://user-images.githubusercontent.com/2369982/166143530-ecccc088-f4ea-46c8-a009-354378405a24.png)
+
+
+## Sources
+
+https://www.instructables.com/DIY-Macro-Keyboard-Using-a-Raspberry-PI-Pico/  
+https://circuitpython.org/board/raspberry_pi_pico/  
+https://github.com/adafruit/Adafruit_CircuitPython_HID/releases
