@@ -3,7 +3,7 @@
 set -e
 
 # Mac
-PORT=/dev/tty.usbmodem113301
+PORT=/dev/tty.usbmodem11101
 
 # Ubuntu
 # PORT=/dev/ttyACM0
