@@ -1,11 +1,13 @@
 # Octopus
 
-<img width="907" alt="image" src="https://user-images.githubusercontent.com/2369982/166143558-9303d707-31a6-4fd9-931d-f336a9b1d4a2.png">
+![image](https://user-images.githubusercontent.com/2369982/170124679-e4135ab0-81cd-4fbb-a4b2-a5fae5d7caad.png)
+
 
 
 ## Prototype
 
-![image](https://user-images.githubusercontent.com/2369982/166143530-ecccc088-f4ea-46c8-a009-354378405a24.png)
+![image](https://user-images.githubusercontent.com/2369982/170124470-3d8890be-366c-4246-8e83-93be6cf51a2a.png)
+
 
 
 ## Sources
