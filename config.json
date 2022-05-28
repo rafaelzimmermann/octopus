@@ -1,0 +1,20 @@
+{
+    "profiles": [
+        {
+            "name": "Default",
+            "buttons": [
+                {
+                    "action": "Make deploy"
+                }
+            ]
+        },
+        {
+            "name": "Zoom",
+            "buttons": [
+                {
+                    "action": "tio /dev/tty.usbmodem1101"
+                }
+            ]
+        }
+    ]
+}

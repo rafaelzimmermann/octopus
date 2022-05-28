@@ -1,7 +1,7 @@
 
 
 deploy:
-	rm /Volumes/CIRCUITPY/*.py; cp *.py /Volumes/CIRCUITPY/
+	rm -rf /Volumes/CIRCUITPY/*.py rm -rf /Volumes/CIRCUITPY/*.json /Volumes/CIRCUITPY/octopus; cp -r *.py *.json octopus /Volumes/CIRCUITPY/
 
 deploy-uf2:
 	cp resources/rp2-pico-20220117-v1.18.uf2 /Volumes/RPI-RP2

@@ -1,6 +1,6 @@
 import time
 
-from displaybase import DisplayBase, WIDTH, HEIGHT, WHITE
+from .displaybase import DisplayBase, WIDTH, HEIGHT, WHITE
 
 
 class Display:
