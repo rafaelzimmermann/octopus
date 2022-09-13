@@ -20,7 +20,7 @@ class DisplayBase:
 
     def __init__(self):
         displayio.release_displays()
-        i2c = busio.I2C(scl=board.GP11, sda=board.GP10)  # This RPi Pico way to call I2C
+        i2c = busio.I2C(scl=board.GP15, sda=board.GP14)  # This RPi Pico way to call I2C
         display_bus = displayio.I2CDisplay(i2c, device_address=0x3C)  # The address of my Board
         self.display = SSD1306(display_bus, width=WIDTH, height=HEIGHT)
         self._canvas = None
