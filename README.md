@@ -1,6 +1,5 @@
 # Octopus
 
-![image](https://user-images.githubusercontent.com/2369982/170124679-e4135ab0-81cd-4fbb-a4b2-a5fae5d7caad.png)
 
 
 
